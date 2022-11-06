@@ -1,0 +1,23 @@
+{
+    "name": "babel_1",
+    "version": "1.0.0",
+    "description": "\"First try to install Banel\"",
+    "main": "index.js",
+    "scripts": {
+      "build": "babel src -d dist",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+ssh://git@github.com/TatyanaProhorova/Babel_1.git"
+    },
+    "keywords": [
+      "Netology"
+    ],
+    "author": "tanya",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/TatyanaProhorova/Babel_1/issues"
+    },
+    "homepage": "https://github.com/TatyanaProhorova/Babel_1#readme"
+  }
